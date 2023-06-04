@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "643006fa61f09c214ee68f76"
+  },
+  "name": "Anna",
+  "points": 6
+},{
+  "_id": {
+    "$oid": "64300afe0a8b5053927b12a6"
+  },
+  "name": "Ron",
+  "points": 8
+},{
+  "_id": {
+    "$oid": "64300b7a91606b0957497c43"
+  },
+  "name": "Robert",
+  "points": 6
+},{
+  "_id": {
+    "$oid": "64300ef586ead7098480a154"
+  },
+  "name": "Josephine",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "64300f231e27020328ed449a"
+  },
+  "name": "Josephine",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "64300fdbd9b0a173333267a1"
+  },
+  "name": "Joe",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "6430107637f6a21ce84132c1"
+  },
+  "name": "Noemie",
+  "points": 6
+},{
+  "_id": {
+    "$oid": "6430147f503f08410d823ea2"
+  },
+  "name": "Lisa",
+  "points": 3
+},{
+  "_id": {
+    "$oid": "64301595eb8175283fd4ce88"
+  },
+  "name": "Geroldine",
+  "points": 5
+},{
+  "_id": {
+    "$oid": "643015b14832bf51db393c0d"
+  },
+  "name": "Geroldine",
+  "points": 6
+},{
+  "_id": {
+    "$oid": "64301655588d7045f0b8ff3a"
+  },
+  "name": "Joe",
+  "points": 6
+},{
+  "_id": {
+    "$oid": "64301f01e8936c32dac9bd9b"
+  },
+  "name": "Joe",
+  "points": 2
+},{
+  "_id": {
+    "$oid": "643020322e5f903ad8f499ab"
+  },
+  "name": "Hannah",
+  "points": 1
+},{
+  "_id": {
+    "$oid": "643023cbd1878b23ca932c93"
+  },
+  "name": "Hannah",
+  "points": 5
+},{
+  "_id": {
+    "$oid": "6430280888d6d56efcd4e659"
+  },
+  "name": "Hannah",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "64316de2fa10e079a8103b55"
+  },
+  "name": "Noemie",
+  "points": 2
+},{
+  "_id": {
+    "$oid": "643170723637b53e17db777b"
+  },
+  "name": "Mike",
+  "points": 3
+},{
+  "_id": {
+    "$oid": "6431741abafca14960d63ace"
+  },
+  "name": "Mike",
+  "points": 2
+},{
+  "_id": {
+    "$oid": "643176b7c937ec7620d77905"
+  },
+  "name": "Mike",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "643176d7443dd91277a4b6e9"
+  },
+  "name": "Mike",
+  "points": 9
+},{
+  "_id": {
+    "$oid": "64317738721b7967a6e5dbad"
+  },
+  "name": "Mike",
+  "points": 7
+},{
+  "_id": {
+    "$oid": "64317813df20954e4635feda"
+  },
+  "name": "Ron",
+  "points": 4
+},{
+  "_id": {
+    "$oid": "643178e551b46a70776c556c"
+  },
+  "name": "Mike",
+  "points": 3
+},{
+  "_id": {
+    "$oid": "643179e2fcd34d02c6747513"
+  },
+  "name": "Joe",
+  "points": 2
+}]

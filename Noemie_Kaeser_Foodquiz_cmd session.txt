@@ -1,0 +1,97 @@
+Welcome to the Food Quiz!
+
+Question about fat (maximum: 100.0, average: 10.49)
+Please order the following foods by fat in ascending order:
+1: Cheese, hard type, goat
+2: Pie crust, unbaked, regular, refrigerated
+3: Soy flour, defatted
+1,2,3
+
+Your answer is partially correct! You get 1 point.
+
+Fat for 100g:
+1: 36.0
+2: 25.0
+3: 1.2
+
+Question about fiber (maximum: 79.0, average: 2.61)
+Please order the following foods by fiber in ascending order:
+1: Semolina, unenriched
+2: Crackers, reduced fat, cheese
+3: Fish, eggs (Alaska Native), whitefish
+2,1,3
+
+Your answer is not correct! You get 0 points.
+
+Fiber for 100g:
+1: 3.9
+2: 3.3
+3: 0.0
+
+Question about sugars (maximum: 99.8, average: 7.95)
+Please order the following foods by sugars in ascending order:
+1: Candies, prepared-from-recipe, peanut butter, fudge
+2: GIRL SCOUTS, Thin Mints Cookies
+3: WENDY'S, without cheese, Jr. Hamburger
+3,1,2
+
+Your answer is partially correct! You get 1 point.
+
+Sugars for 100g:
+1: 73.36
+2: 32.0
+3: 0.0
+
+Question about protein (maximum: 88.32, average: 8.85)
+Please order the following foods by protein in ascending order:
+1: Quinoa, uncooked
+2: Snacks, chopped and formed, beef jerky
+3: Beverages, orange, carbonated
+1 , 12,
+Invalid input. Please enter a valid answer (e.g. '1,2,3').
+1,2,33,
+Invalid input. Please enter a valid answer (e.g. '1,2,3').
+1,2,3
+
+Your answer is not correct! You get 0 points.
+
+Protein for 100g:
+1: 14.12
+2: 33.2
+3: 0.0
+
+Question about Calories (maximum: 902.0, average: 233.13)
+Please order the following foods by Calories in ascending order:
+1: CRACKER BARREL, country fried shrimp platter
+2: T.G.I. FRIDAY'S, breaded, FRIDAY'S Shrimp
+3: Beverages, RED BULL, Energy drink
+2,1,3
+
+Your answer is partially correct! You get 1 point.
+
+Calories for 100g:
+1: 287.0
+2: 302.0
+3: 43.0
+
+You achieved 3 points. Congratulations! Please enter your name.
+Mike
+Mike, you scored 3 points. This is 4th place but unfortunately not an improvement to your best score.
+
+Leaderboard:
+1: Mike has 9 Points.
+2: Ron has 8 Points.
+3: Mike has 7 Points.
+
+Ranking Summary:
+Geroldine: 6, 5
+Hannah: 5, 4, 1
+Mike: 9, 7, 4, 3, 3, 2
+Anna: 6
+Lisa: 3
+Noemie: 6, 2
+Robert: 6
+Joe: 6, 4, 2
+Josephine: 4, 4
+Ron: 8, 4
+PS C:\Users\nobo\.javaproject2\javaproject> 
